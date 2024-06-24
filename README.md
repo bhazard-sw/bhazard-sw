@@ -4,7 +4,8 @@
 
 - <b>Data Structures and Algorithms Practice</b>
   - [Praciting DS & Algos in Python](https://github.com/bhazard-sw/Algorithms-Practice)
-
+- <b>DataFrame Manipulation, API Usage, Machine Learning</b>
+  - [Praciting DS & Algos in Python](https://github.com/bhazard-sw/Algorithms-Practice)
 - <b>Python</b>
 <h2> 🤳 Connect with me:</h2>
 
