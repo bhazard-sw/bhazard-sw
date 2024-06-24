@@ -1,4 +1,4 @@
-<h1>Welcome World! I'm Brian <br/><a href="https://github.com/bhazard-sw">Programmer</a></h1>
+<h1>Hello World! I'm Brian <br/><a href="https://github.com/bhazard-sw">Programmer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
