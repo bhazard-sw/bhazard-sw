@@ -2,11 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice</b>
-  - [Praciting DS & Algos in Python](https://github.com/bhazard-sw/Algorithms-Practice)
-- <b>DataFrame Manipulation, API Usage, Machine Learning</b>
-  - [Praciting DS & Algos in Python](https://github.com/bhazard-sw/Algorithms-Practice)
-- <b>Python</b>
+- <b>DataFrame Manipulation in Python</b>
+  - [Praciting DS & Algos in Python](https://github.com/bhazard-sw/Fantasy_Football_ADP_Draft_Modal_2024)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="bhazard | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
