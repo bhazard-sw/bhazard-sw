@@ -7,6 +7,9 @@
  
 - <b>API Usage in Lua</b>
   - [World of Warcraft Inventory Request Addon](https://github.com/bhazard-sw/WoWAddonInventoryRequest)
+ 
+- <b>API Usage in Python, Error Handling</b>
+  - [Telegram 24/7 Error Reporting for personal projects](https://github.com/bhazard-sw/TelegramErrorReporting)
    
 <h2>Connect with me:</h2>
 
