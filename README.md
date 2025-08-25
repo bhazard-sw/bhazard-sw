@@ -6,7 +6,7 @@
   - [2024 Fantasy Football Draft ADP Modal & Analysis](https://github.com/bhazard-sw/Fantasy_Football_ADP_Draft_Modal_2024)
 
 - <b>AI Bot, API Usage in Python, OpenAI API, SQLite, Voice to text, JSON</b>
-  - [AI Bot for Real Estate Follou-up Reporting](https://github.com/bhazard-sw/AIBot-VoiceToDatabaseAndReport)
+  - [AI Bot for Real Estate Follow-up Reporting](https://github.com/bhazard-sw/AIBot-VoiceToDatabaseAndReport)
  
 - <b>API Usage in Lua</b>
   - [World of Warcraft Inventory Request Addon](https://github.com/bhazard-sw/WoWAddonInventoryRequest)
